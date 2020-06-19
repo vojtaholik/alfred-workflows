@@ -1,0 +1,19 @@
+{
+  "name": "user.workflow.7D8189A6-4540-4596-BA9F-DF898413773B",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "fuse.js": "^6.0.4",
+    "lodash": "^4.17.15",
+    "sharp": "^0.25.4",
+    "yargs": "^15.3.1"
+  }
+}
