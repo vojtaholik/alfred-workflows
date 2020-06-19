@@ -1,1 +1,1 @@
-This workflow lets you search through lilbrary of [Hero icons](https://heroicons.dev/), a set of MIT icons by [Steve Schoger](https://twitter.com/steveschoger). 
+This workflow lets you search through lilbrary of [Hero icons](https://heroicons.dev/), a set of MIT icons by [Steve Schoger](https://twitter.com/steveschoger) and paste a selected icon into code, or graphic editor like Sketch or Figma.
